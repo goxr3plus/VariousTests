@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:0,FLV
+#EXTINF:0,RTMP
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.jim.stream.vmmacdn.be app=vmma-jim-rtmplive-live playpath=jim live=1
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence1.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence2.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence3.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence4.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence5.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence6.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence7.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence8.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence9.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence10.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence11.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence12.ts
+#EXTINF:0,Student Live Stream
+http://playertest.longtailvideo.com/adaptive/bipbop/gear2/fileSequence13.ts
