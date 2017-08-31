@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10, no desc
+gear2/fileSequence0.ts
+#EXTINF:10, no desc
+gear2/fileSequence1.ts
+#EXTINF:10, no desc
+gear2/fileSequence2.ts
+#EXTINF:10, no desc
+gear2/fileSequence3.ts
+#EXTINF:10, no desc
+gear2/fileSequence4.ts
+#EXTINF:10, no desc
+gear2/fileSequence5.ts
+#EXTINF:10, no desc
+gear2/fileSequence6.ts
+#EXTINF:10, no desc
+gear2/fileSequence7.ts
+#EXTINF:10, no desc
+gear2/fileSequence8.ts
+#EXTINF:10, no desc
+gear2/fileSequence9.ts
+#EXT-X-ENDLIST
+
